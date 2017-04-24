@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="customer_management:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="CMS-1.0.0-BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="customer_management:war exploded" />
+    </root>
+  </artifact>
+</component>
